@@ -24,10 +24,10 @@ The AI opponent uses a minimax algorithm with alpha-beta pruning to evaluate the
 ## Images / Screenshots
 Below are some example screenshots of the game interface:
 
-![Game Start](./images/game_start.png) 
+![Game Start](game_start.png) 
 *Chessboard at the start* 🎲
 
-![Mid Game](./images/game_mid.png)
+![Mid Game](game_mid.png)
 *Game in progress* ⏳
 
 
