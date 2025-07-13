@@ -21,10 +21,10 @@ This is a simple web-based Rock-Paper-Scissors game where you play against an AI
 - Click the **Restart 🔄** button to reset the game and start over. 🔄
 
 ## Screenshots
-![Game Interface](./screenshot1.png)
+![Game Interface](screenshot1.png)
 *Figure 1: Game interface with move buttons and score display.* 🎲
 
-![Game Result](./screenshot2.png)
+![Game Result](screenshot2.png)
 *Figure 2: Example of a game result after a round.* ⏳
 
 *(Replace the above image placeholders with actual screenshots of the game.)* 📸
