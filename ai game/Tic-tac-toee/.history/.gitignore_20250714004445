@@ -1,0 +1,37 @@
+# Ignore common large files and archives
+*.zip
+*.tar
+*.tar.gz
+*.tgz
+*.7z
+*.rar
+
+# Ignore video files
+*.mp4
+*.mov
+*.avi
+*.mkv
+*.flv
+
+# Ignore binary files
+*.exe
+*.dll
+*.so
+*.dylib
+
+# Ignore disk images
+*.iso
+*.img
+
+# Ignore large document files
+*.pdf
+*.psd
+
+# Ignore log files
+*.log
+
+# Ignore node modules folder (if any)
+node_modules/
+
+# Ignore any other large files you want to exclude manually
+# You can also consider using Git LFS for large files

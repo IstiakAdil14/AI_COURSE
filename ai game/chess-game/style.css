@@ -1,0 +1,48 @@
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+    margin: 20px;
+    background-color: #f0f0f0;
+}
+
+#chessboard {
+    width: 480px;
+    height: 480px;
+    margin: 20px auto;
+    display: grid;
+    grid-template-columns: repeat(8, 1fr);
+    grid-template-rows: repeat(8, 1fr);
+    border: 2px solid #333;
+    box-shadow: 0 0 10px rgba(0,0,0,0.3);
+}
+
+.square {
+    width: 60px;
+    height: 60px;
+    line-height: 60px;
+    font-size: 40px;
+    cursor: pointer;
+    user-select: none;
+}
+
+.light {
+    background-color: #eeeed2;
+}
+
+.dark {
+    background-color: #769656;
+}
+
+.selected {
+    outline: 3px solid #f00;
+}
+
+#status {
+    margin-top: 10px;
+    font-weight: bold;
+    font-size: 18px;
+}
+
+.highlight {
+    outline: 3px solid #00f;
+}

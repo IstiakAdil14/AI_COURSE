@@ -1,0 +1,49 @@
+# Ignore common large file types
+
+# Archives
+*.zip
+*.tar
+*.tar.gz
+*.tgz
+*.7z
+*.rar
+
+# Video files
+*.mp4
+*.mov
+*.avi
+*.mkv
+*.flv
+
+# Audio files
+*.mp3
+*.wav
+*.flac
+*.aac
+
+# Executables and binaries
+*.exe
+*.dll
+*.bin
+*.iso
+
+# Log files
+*.log
+
+# Photoshop files
+*.psd
+
+# PDF files (if large)
+*.pdf
+
+# 3D model files
+*.obj
+*.fbx
+
+# Node modules folder (if applicable)
+node_modules/
+
+# Other large files
+*.cache
+*.tmp
+*.temp

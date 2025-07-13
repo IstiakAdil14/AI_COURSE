@@ -1,0 +1,30 @@
+# .gitignore file to ignore large files when uploading to GitHub
+
+# Ignore archive files
+*.zip
+*.tar
+*.gz
+*.7z
+
+# Ignore video files
+*.mp4
+*.mov
+*.avi
+*.mkv
+
+# Ignore audio files
+*.mp3
+*.wav
+*.flac
+
+# Ignore executables and binaries
+*.exe
+*.dll
+*.bin
+*.iso
+
+# Ignore log files
+*.log
+
+# Ignore node modules folder (if applicable)
+node_modules/
